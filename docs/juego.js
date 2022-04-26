@@ -14,13 +14,13 @@ function numeroAlazar(){
 }
 
 function verificar(){
-    if( aleatorio()>4){
+    if( aleatorio() = 4){
 
     window.location.href = 'jugador1.html';
     
     
 }
-    else{
+    if(aleatorio()=6){
 
         window.location.href = 'jugador2.html';
         
