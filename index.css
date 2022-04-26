@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+img{
+  width: 30%;
+}
+button{
+    display: block;
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+/* CSS jugador 1 y 2 */
+a{
+  text-decoration: none;
+}
+
+p{
+  font-size: 30px;
+  font-weight: bold;
+}
